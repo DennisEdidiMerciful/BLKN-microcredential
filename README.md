@@ -1,1 +1,1 @@
-# BLKN-microcredential
+Capstone Project in Blockchain Studies
